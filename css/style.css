@@ -10,6 +10,7 @@ body {
   font-family: Arial, sans-serif;
   font-weight: 300;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -20,4 +21,8 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 3rem;
+}
+.bottone {
+  color: white;
+  padding: 1rem;
 }
